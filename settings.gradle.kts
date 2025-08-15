@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Cat Feeder Surveillence"
+rootProject.name = "Cat Feeder Controller"
 include(":app")
